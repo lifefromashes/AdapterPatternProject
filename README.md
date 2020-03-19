@@ -1,0 +1,1 @@
+# AdapterPatternProject
